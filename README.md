@@ -14,8 +14,8 @@ Cómo levantar el proyecto:
     cd PeopleFlow
 
 2. python -m venv myenv
-source myenv/bin/activate      # Linux / Mac
-myenv\Scripts\activate         # Windows
+Linux/Mac: source myenv/bin/activate
+Windows: myenv\Scripts\activate         
 
 3. dependencias:
 pip install -r requirements.txt
